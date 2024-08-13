@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Centrao Family❤️"];
+const statusMessages = [":stars_white: Наблюдаю за Centrao :yellowstar: "];
 
 
 let currentIndex = 0;
